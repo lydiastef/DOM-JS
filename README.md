@@ -1,1 +1,2 @@
 # DOM-JS
+I created this snake game which includes lots of variables, for loops and many different functions in Javascript. The snake is of a certain size, moves at a certain speed and dies at certan events. The food appears at random places after every time the snake eats it and the snake gets longer. When the snake dies, a game over menu shows up, a clickable text appears and the site refreshes if you click the 'restart'. I wrote comments in the js file. 

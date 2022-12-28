@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    font-family: monospace;
+}
+
+#gameOver {
+    visibility: hidden;
+    margin-top: -350px;
+    color: white;
+}
+
+.title {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 40px;
+}
+
+#restartButton {
+    color: rgb(143, 210, 42);
+    font-family: monospace;
+    font-size: 24px;
+}
+
+#restartButton:hover {
+    color: rgb(102, 150, 30);
+    cursor: pointer;
+}
